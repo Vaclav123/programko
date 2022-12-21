@@ -27,7 +27,7 @@ switch (cislo) {
   case 5:
     cout << "informace";
     break;
-
+//ABCD
 
 
 
